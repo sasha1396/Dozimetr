@@ -5,6 +5,8 @@ This repository implements Radiometer featuring:
  - humidity and temperature measurement;
  - pressure measurement.
 
+This project made for FLAT (Foil-laser-ironing technology)
+
 
 # 3D model front panel in Altium Designer
 ## Front:
