@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C10 Old Footprint=ECAPC_0505 New Footprint=TCAPC_B
+Change Component Comment : Designator=C10 Old Comment=ECAPC_0505 New Comment=TCAPC_B
+Change component parameters: Designator = "C10"; Footprint = "TCAPC_B"; UniqueID = "\FYNSNABX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(TCAPC_A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Member To Class: ClassName=MCU Member=Component C6 TCAPC_A

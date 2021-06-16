@@ -1,0 +1,4 @@
+Added Component: Designator=RV?(SIOV_w15.5_e7.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "B72214S0300K101"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=High_Voltage Member=Component RV? VARISTORW15.5E7.5

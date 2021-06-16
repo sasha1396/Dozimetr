@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC16_1 Pin=C16-1
+Removed Pin From Net: NetName=3.3V Pin=C16-2
+Removed Member From Class: ClassName=POWER Member=NetC16_1
+Change Component Footprint: Designator=C16 Old Footprint=CAPC1608-0603M New Footprint=CAPC2012-0805M
+Change Component Comment : Designator=C16 Old Comment=CAPC_0603 New Comment=CAPC_0805
+Added Pin To Net: NetName=3.3V Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-2
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC16_2
+Added Member To Class: ClassName=POWER Member=Wire NetC16_2

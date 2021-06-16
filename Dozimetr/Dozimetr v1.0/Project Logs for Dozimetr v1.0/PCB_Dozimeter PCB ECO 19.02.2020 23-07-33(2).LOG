@@ -1,0 +1,5 @@
+Added Component: Designator=R39(RES6.5-3.4X1.9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R39-1
+Added Member To Class: ClassName=Power Member=Component R39 RES_AXIAL

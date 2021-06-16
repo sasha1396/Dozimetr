@@ -1,0 +1,18 @@
+Added Component: Designator=HG2(LCD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RST Pin=HG2-1
+Added Pin To Net: NetName=RST Pin=HG2-1
+Added Pin To Net: NetName=CE Pin=HG2-2
+Added Pin To Net: NetName=CE Pin=HG2-2
+Added Pin To Net: NetName=CE Pin=HG2-2
+Added Pin To Net: NetName=CE Pin=HG2-2
+Added Pin To Net: NetName=DC Pin=HG2-3
+Added Pin To Net: NetName=Din Pin=HG2-4
+Added Pin To Net: NetName=Clk Pin=HG2-5
+Added Pin To Net: NetName=3.3V Pin=HG2-6
+Added Pin To Net: NetName=Light Pin=HG2-7
+Added Pin To Net: NetName=Light Pin=HG2-7
+Added Pin To Net: NetName=GND Pin=HG2-8
+Added Pin To Net: NetName=GND Pin=HG2-8
+Added Member To Class: ClassName=High_Voltage Member=Component HG1 SBM-20-1
+Added Member To Class: ClassName=MCU Member=Component HG2 LCD5110

@@ -1,0 +1,4 @@
+Added Component: Designator=C?(CAPC2012-0805M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=High_Voltage Member=Component C? CAPC_0805

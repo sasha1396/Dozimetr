@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC23_1 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Member From Class: ClassName=High_Voltage Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2

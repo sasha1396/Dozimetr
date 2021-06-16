@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3.3V Pin=C9-2
+Removed Pin From Net: NetName=3.3V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Member From Class: ClassName=MCU Member=C9
+Removed Member From Class: ClassName=MCU Member=C10
+Removed Member From Class: ClassName=MCU Member=C11
+Removed Member From Class: ClassName=MCU Member=C12
+Added Component: Designator=C?(CAPC1608-0603L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608-0603L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608-0603L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(TCAPC_A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U1-20
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=MCU Member=Component C? CAPC_0603
+Added Member To Class: ClassName=MCU Member=Component C? CAPC_0603
+Added Member To Class: ClassName=MCU Member=Component C? CAPC_0603
+Added Member To Class: ClassName=MCU Member=Component C? TCAPC_A

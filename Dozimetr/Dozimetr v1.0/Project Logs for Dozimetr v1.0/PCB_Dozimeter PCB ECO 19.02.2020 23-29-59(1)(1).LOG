@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=EN Pin=R33-1
+Removed Pin From Net: NetName=NetIC3_1 Pin=R33-2
+Removed Member From Class: ClassName=Power Member=R33
+Change Component Footprint: Designator=C16 Old Footprint=CAPC2012-0805M New Footprint=CAPC1608-0603M
+Change Component Footprint: Designator=R35 Old Footprint=RESC2012-0805M New Footprint=RESC1608-0603M
+Change Component Comment : Designator=C16 Old Comment=CAPC_0805 New Comment=CAPC_0603
+Change Component Comment : Designator=R35 Old Comment=RESC_0805 New Comment=RESC_0603
+Added Component: Designator=R?(RESC1608-0603M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=R?-1
+Added Pin To Net: NetName=NetIC3_1 Pin=R?-2
+Added Member To Class: ClassName=Power Member=Component R34 RES_AXIAL
+Added Member To Class: ClassName=Power Member=Component R? RESC_0603

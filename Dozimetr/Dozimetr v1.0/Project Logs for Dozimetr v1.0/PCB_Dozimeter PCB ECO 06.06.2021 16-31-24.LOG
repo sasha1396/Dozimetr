@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetR17_1 Pin=IC1-3
+Removed Pin From Net: NetName=Light Pin=Q3-2
+Removed Pin From Net: NetName=3.3V Pin=R25-1
+Removed Pin From Net: NetName=Light Pin=R31-2
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC2012-0805M"; UniqueID = "\LWBPZCPX" ("\LWBPZCPX")
+Change component parameters (AddParameter): Name = "Value"; Value = "470k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RESC2012-0805M"; UniqueID = "\DRJFYPWR" ("\DRJFYPWR")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC2012-0805M"; UniqueID = "\QACZPTIH" ("\QACZPTIH")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RESC2012-0805M"; UniqueID = "\SFOCDIKC" ("\SFOCDIKC")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESC2012-0805M"; UniqueID = "\MYXKQCOA" ("\MYXKQCOA")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RESC1608-0603M"; UniqueID = "\IRRNAYJB" ("\IRRNAYJB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=Light Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=VDD Pin=R33-2
+Added Room: Name=High_Voltage
+Added Room: Name=Indication_and_Notification
+Added Room: Name=MCU
+Added Room: Name=Power

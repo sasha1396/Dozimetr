@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 0:05:48 On 28.02.2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [PCB_Dozimeter.PcbDoc]
+   Generated File[Bill of Materials-PCB_Dozimeter.xls]
+   Generated File[Bill of Materials-PCB_Dozimeter.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 0:05:50 On 28.02.2020

@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=400V Member=NetC?_1
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Added Component: Designator=C22(ECAP811.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C23(ECAP811.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC6_1
+Added Member To Class: ClassName=High_Voltage Member=Component C22 ECAP-811.5
+Added Member To Class: ClassName=High_Voltage Member=Component C23 ECAP-811.5
+Added Member To Class: ClassName=400V Member=Wire NetC6_1
