@@ -1,5 +1,0 @@
-Removed Member From Class: ClassName=High_Voltage Member=RV?
-Added Component: Designator=C?(ECAP16315)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=High_Voltage Member=Component C? ECAP-1625

@@ -1,6 +1,0 @@
-Added Member To Class: ClassName=High_Voltage Member=Component C22 ECAP-811.5
-Added Member To Class: ClassName=High_Voltage Member=Component C23 ECAP-811.5
-Added Room: Name=High_Voltage
-Added Room: Name=Indication_and_Notification
-Added Room: Name=MCU
-Added Room: Name=Power

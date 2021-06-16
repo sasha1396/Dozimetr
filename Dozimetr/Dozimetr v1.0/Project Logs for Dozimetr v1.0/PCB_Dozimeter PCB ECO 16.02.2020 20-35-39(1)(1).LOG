@@ -1,6 +1,0 @@
-Removed Member From Class: ClassName=400V Member=NetD1_1
-Change Component Designator: OldDesignator=J?? NewDesignator=J4
-Added Pin To Net: NetName=FB Pin=D1-1
-Added Pin To Net: NetName=FB Pin=R9-1
-Added Member To Class: ClassName=High_Voltage Member=Component HG1 SBM-20-1
-Added Member To Class: ClassName=MCU Member=Component HG2 LCD5110

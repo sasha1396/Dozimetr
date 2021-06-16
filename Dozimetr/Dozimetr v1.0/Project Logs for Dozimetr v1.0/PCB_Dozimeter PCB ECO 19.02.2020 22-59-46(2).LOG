@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=R12 Old Footprint=RESC3216-1206M New Footprint=RESC2012-0805M
-Change Component Comment : Designator=R12 Old Comment=RESC_1206_R New Comment=RESC_0805_R
-Added Component: Designator=C12(TCAPC_D)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=3.3V Pin=C12-1
-Added Pin To Net: NetName=GND Pin=C12-2
-Added Member To Class: ClassName=Power Member=Component C12 TCAPC_D

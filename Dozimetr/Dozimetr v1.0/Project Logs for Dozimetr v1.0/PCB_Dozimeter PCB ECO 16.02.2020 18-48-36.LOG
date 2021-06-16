@@ -1,5 +1,0 @@
-Added Component: Designator=HG1(SBM-20-1)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=NetHG1_1 Pin=HG1-1
-Added Pin To Net: NetName=NetC7_2 Pin=HG1-2
-Added Member To Class: ClassName=High_Voltage Member=Component HG1 SBM-20-1
